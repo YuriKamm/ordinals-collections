@@ -1,10 +1,9 @@
 {
-  "description": "95 Smiley Cones",
-  "discord_link": "",
-  "inscription_icon": "5925060bc8e6e993df9cd6981b580d1819a624c65a139da99a2863eec25bde08i0",
   "name": "Smiley Cones",
+  "inscription_icon": "0c927873ac72035496c951308576e74ff972748074ddb9c9d98d7490138fd3a2i0",
   "slug": "smiley-cones",
-  "twitter_link": "",
-  "supply": "95",
+  "description": "100 Smiley Cones",
+  "twitter_link": "https://twitter.com/smileycones",
+  "discord_link": "",
   "website_link": ""
 }
